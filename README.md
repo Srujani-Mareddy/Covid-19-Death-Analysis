@@ -1,6 +1,6 @@
 ### README
 
-## Analyzed COVID-19 mortality data using BigQuery,processing over 3 million records across 50 states with Python for ETL and SQL for demographic insights
+## Analyzed COVID-19 mortality data using BigQuery
 
 ### Description
 This project provides statistics on deaths involving COVID-19, pneumonia, and influenza reported to the National Center for Health Statistics (NCHS) by sex, age group, and jurisdiction of occurrence. Using datasets from the CDC and US Census, the analysis aims to identify the most vulnerable groups and provide insights for targeted interventions.
@@ -86,8 +86,3 @@ To contribute, follow these steps:
    ```
 5. **Create a pull request.**
 
-### License
-This project is licensed under the @2023 Surya Varma Vegesna.
-
-### Contact
-If you have any questions or want to contribute, please email us at surya@example.com.
